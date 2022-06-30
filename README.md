@@ -1,2 +1,2 @@
-# express-ts
-This is a template repository for building a Node.JS server using [Express](https://expressjs.com/) and [Typescript](https://www.typescriptlang.org/).
+# amtrix
+ Amtrix is a Node.JS homeserver that implements Matrix specification. 
